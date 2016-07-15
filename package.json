@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "NewChallenger",
   "main": "index.js",
+  "engines": {
+     "node": "6.2.2",
+   },
   "scripts": {
-    "test": "webpack-dev-server"
+    "test": "webpack-dev-server",
+    "start": "node server/server.js"
   },
   "repository": {
     "type": "git",
