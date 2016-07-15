@@ -4,7 +4,7 @@
   "description": "NewChallenger",
   "main": "index.js",
   "engines": {
-     "node": "6.2.2",
+     "node": "6.2.2"
    },
   "scripts": {
     "test": "webpack-dev-server",
