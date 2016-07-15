@@ -1,0 +1,26 @@
+{
+  "name": "vivacious-salt",
+  "version": "1.0.0",
+  "description": "NewChallenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivacioussalt/vivacious-salt.git"
+  },
+  "author": "Vivacious Salt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivacioussalt/vivacious-salt/issues"
+  },
+  "homepage": "https://github.com/vivacioussalt/vivacious-salt#readme",
+  "devDependencies": {
+    "eslint": "^3.0.1",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.10.3",
+    "eslint-plugin-jsx-a11y": "^2.0.1",
+    "eslint-plugin-react": "^5.2.2"
+  }
+}
