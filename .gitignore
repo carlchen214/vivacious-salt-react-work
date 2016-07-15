@@ -1,2 +1,7 @@
 # Dependency directorys
 node_modules/
+
+# Environment
+npm-debug.log
+.DS_Store
+/*.env
