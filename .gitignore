@@ -1,1 +1,4 @@
-node_modules
+
+# Dependency directorys
+node_modules/
+setup/Add eslint for AirBNB style guide, initiate package.json & add node_modules to .gitignore
