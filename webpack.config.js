@@ -1,7 +1,7 @@
 module.exports = {
-  entry: './client/app.js',
+  entry: './client/src/index.jsx',
   output: {
-    path: './client',
+    path: './client/src',
     filename: 'bundle.js'
   },
   devServer: {
@@ -12,7 +12,7 @@ module.exports = {
   module: {
     loaders: [
       {
-        test: /\.js$/,
+        test: /\.jsx$/,
         exclude: /node_modules/,
         loader: 'babel'
       }
