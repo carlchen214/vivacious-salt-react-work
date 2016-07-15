@@ -2,12 +2,12 @@ module.exports = {
   entry: './client/src/index.jsx',
   output: {
     path: './client/src',
-    filename: 'bundle.js',
+    filename: 'bundle.js'
   },
   devServer: {
     inline: true,
     contentBase: './client',
-    port: 8100,
+    port: 8100
   },
   module: {
     loaders: [
